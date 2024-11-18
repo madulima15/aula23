@@ -1,0 +1,20 @@
+body{
+    font-size: 26px;
+    font-family: cursive;
+    color: white;
+}
+.box01{
+    background-color: turquoise;
+}
+.box02{
+    background-color: tomato;
+}
+.box03{
+    background-color: cornflowerblue;
+}
+.box04{
+    background-color: blueviolet;
+}
+.box05{
+    background-color: darkkhaki;
+}
